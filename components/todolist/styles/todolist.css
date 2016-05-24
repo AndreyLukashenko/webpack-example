@@ -1,0 +1,18 @@
+.todolist {
+    width: 200px;
+}
+
+.tasks {
+    padding: 0;
+    list-style: none;
+}
+
+.task {
+    display: flex;
+    margin-top: 5px;
+}
+
+.task-name {
+    margin-left: 15px;
+    flex-grow: 1;
+}
